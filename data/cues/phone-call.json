@@ -1,0 +1,11 @@
+{
+  "id": "phone-call",
+  "title": "Offer a family call",
+  "category": "connection",
+  "text": "Would you like help making a call to someone you choose?",
+  "caregiver_note": "Use a verified contact and obtain permission.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
