@@ -1,0 +1,23 @@
+{
+  "id": "evening-comfort",
+  "title": "Evening Comfort",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "short-walk",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "evening-greeting",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "offer-choice",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
