@@ -1,0 +1,11 @@
+{
+  "id": "morning-greeting",
+  "title": "A gentle morning greeting",
+  "category": "morning",
+  "text": "Good morning. We can start slowly. Would you like to sit together for a moment?",
+  "caregiver_note": "Offer one choice and allow time to respond.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
