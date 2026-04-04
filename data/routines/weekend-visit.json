@@ -1,0 +1,23 @@
+{
+  "id": "weekend-visit",
+  "title": "Weekend Visit",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "calm-room",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "ask-for-help",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "story-time",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
