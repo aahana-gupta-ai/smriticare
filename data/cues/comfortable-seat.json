@@ -1,0 +1,11 @@
+{
+  "id": "comfortable-seat",
+  "title": "Find a comfortable place",
+  "category": "rest",
+  "text": "Would this chair feel comfortable, or would you prefer another place?",
+  "caregiver_note": "Assist with positioning according to the care plan.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
