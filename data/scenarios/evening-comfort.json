@@ -1,0 +1,13 @@
+{
+  "id": "SYN-EVENING-COMFORT",
+  "is_synthetic": true,
+  "routine_id": "evening-comfort",
+  "consent": {
+    "voice_owner_id": "SYN-VOICE-6",
+    "permission_granted": true,
+    "revoked": false,
+    "expires_at": "2099-01-01T00:00:00Z"
+  },
+  "request_voice": true,
+  "expected_voice_allowed": true
+}
