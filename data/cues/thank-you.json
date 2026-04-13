@@ -1,0 +1,11 @@
+{
+  "id": "thank-you",
+  "title": "Close with appreciation",
+  "category": "connection",
+  "text": "Thank you for spending this time with me. We can have a quiet moment now.",
+  "caregiver_note": "Avoid performance-based praise or infantilising language.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
