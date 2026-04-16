@@ -1,0 +1,11 @@
+{
+  "id": "bedtime-choice",
+  "title": "Prepare for bedtime",
+  "category": "evening",
+  "text": "Would you like to begin your usual evening routine, or take a little more time?",
+  "caregiver_note": "Follow the person's established routine.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
