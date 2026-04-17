@@ -1,0 +1,11 @@
+{
+  "id": "visit-preparation",
+  "title": "Prepare for a familiar visit",
+  "category": "connection",
+  "text": "Someone you know may visit today. We can talk about it together if you would like.",
+  "caregiver_note": "Confirm the visit before using this cue.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
