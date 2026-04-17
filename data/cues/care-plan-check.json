@@ -1,0 +1,11 @@
+{
+  "id": "care-plan-check",
+  "title": "Ask the caregiver about the plan",
+  "category": "planning",
+  "text": "Your caregiver can check the agreed care plan with you. We do not need to decide it alone.",
+  "caregiver_note": "Do not generate medication schedules or treatment advice.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
