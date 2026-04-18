@@ -1,0 +1,23 @@
+{
+  "id": "quiet-afternoon",
+  "title": "Quiet Afternoon",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "choose-breakfast",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "familiar-song",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "quiet-rest",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
