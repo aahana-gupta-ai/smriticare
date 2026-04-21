@@ -1,0 +1,11 @@
+{
+  "id": "repeat-gently",
+  "title": "Repeat an instruction gently",
+  "category": "reassurance",
+  "text": "Let us try one small step together. I can show you.",
+  "caregiver_note": "Avoid blame or presenting repetition as failure.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
