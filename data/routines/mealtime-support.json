@@ -1,0 +1,23 @@
+{
+  "id": "mealtime-support",
+  "title": "Mealtime Support",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "family-photo",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "comfortable-seat",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "caregiver-arrival",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
