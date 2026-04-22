@@ -1,0 +1,11 @@
+{
+  "id": "personal-item",
+  "title": "Offer a familiar object",
+  "category": "activity",
+  "text": "This familiar item is here if you would like to hold or look at it.",
+  "caregiver_note": "Check that the object is safe and personally appropriate.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
