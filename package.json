@@ -1,0 +1,15 @@
+{
+  "name": "smriticare",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Familiar cues and thoughtful care routines",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "python3 scripts/serve.py",
+    "test": "node --test",
+    "verify": "node scripts/verify.mjs"
+  }
+}
