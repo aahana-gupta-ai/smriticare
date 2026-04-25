@@ -1,0 +1,13 @@
+{
+  "id": "SYN-GARDEN-MOMENTS",
+  "is_synthetic": true,
+  "routine_id": "garden-moments",
+  "consent": {
+    "voice_owner_id": "SYN-VOICE-9",
+    "permission_granted": true,
+    "revoked": true,
+    "expires_at": "2099-01-01T00:00:00Z"
+  },
+  "request_voice": true,
+  "expected_voice_allowed": false
+}
