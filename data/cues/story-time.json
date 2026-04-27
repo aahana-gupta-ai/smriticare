@@ -1,0 +1,11 @@
+{
+  "id": "story-time",
+  "title": "Listen to a story",
+  "category": "connection",
+  "text": "Would you like to share a story, or would you prefer that I read something short?",
+  "caregiver_note": "Do not insist on accurate recollection.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
