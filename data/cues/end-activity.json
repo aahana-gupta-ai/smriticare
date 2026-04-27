@@ -1,0 +1,11 @@
+{
+  "id": "end-activity",
+  "title": "Finish an activity gently",
+  "category": "planning",
+  "text": "We can finish here for now. Would you like a break or another familiar activity?",
+  "caregiver_note": "Respect fatigue and the right to stop.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
