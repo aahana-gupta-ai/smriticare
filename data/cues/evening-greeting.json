@@ -1,0 +1,11 @@
+{
+  "id": "evening-greeting",
+  "title": "A gentle evening cue",
+  "category": "evening",
+  "text": "It is evening now. We can settle into a comfortable place together.",
+  "caregiver_note": "Use only accurate time information.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
