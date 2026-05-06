@@ -1,0 +1,11 @@
+{
+  "id": "offer-choice",
+  "title": "Offer one simple choice",
+  "category": "reassurance",
+  "text": "Would you prefer this option or that one? There is no hurry.",
+  "caregiver_note": "Show concrete choices rather than abstract alternatives.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
