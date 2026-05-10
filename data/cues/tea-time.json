@@ -1,0 +1,11 @@
+{
+  "id": "tea-time",
+  "title": "A familiar tea break",
+  "category": "meals",
+  "text": "Would you like a quiet tea break together? We can use your usual cup.",
+  "caregiver_note": "Check drink suitability with the existing care plan.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
