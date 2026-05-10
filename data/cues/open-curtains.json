@@ -1,0 +1,11 @@
+{
+  "id": "open-curtains",
+  "title": "Welcome daylight",
+  "category": "morning",
+  "text": "Would you like the curtains opened a little, or would you prefer them as they are?",
+  "caregiver_note": "Respect light sensitivity and the person's preference.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
