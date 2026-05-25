@@ -1,0 +1,23 @@
+{
+  "id": "garden-moments",
+  "title": "Garden Moments",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "bedtime-choice",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "repeat-gently",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "appointment-reminder",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
