@@ -1,0 +1,11 @@
+{
+  "id": "family-photo",
+  "title": "Look at a familiar photo",
+  "category": "connection",
+  "text": "Here is a photo we can look at together. What would you like to tell me about it?",
+  "caregiver_note": "Avoid testing memory or demanding names.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
