@@ -1,0 +1,13 @@
+{
+  "id": "SYN-LOW-STIMULATION",
+  "is_synthetic": true,
+  "routine_id": "low-stimulation",
+  "consent": {
+    "voice_owner_id": "SYN-VOICE-7",
+    "permission_granted": false,
+    "revoked": false,
+    "expires_at": "2099-01-01T00:00:00Z"
+  },
+  "request_voice": true,
+  "expected_voice_allowed": false
+}
