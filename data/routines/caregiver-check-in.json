@@ -1,0 +1,23 @@
+{
+  "id": "caregiver-check-in",
+  "title": "Caregiver Check In",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "visit-preparation",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "care-plan-check",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "choose-breakfast",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
