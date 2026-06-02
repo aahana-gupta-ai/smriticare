@@ -1,0 +1,23 @@
+{
+  "id": "low-stimulation",
+  "title": "Low Stimulation",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "quiet-rest",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "night-light",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "visit-preparation",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
