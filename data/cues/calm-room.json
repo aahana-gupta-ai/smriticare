@@ -1,0 +1,11 @@
+{
+  "id": "calm-room",
+  "title": "Reduce distractions",
+  "category": "rest",
+  "text": "We can make the room quieter if that would feel better.",
+  "caregiver_note": "Offer a change without claiming a treatment effect.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
