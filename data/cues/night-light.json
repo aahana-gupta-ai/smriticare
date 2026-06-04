@@ -1,0 +1,11 @@
+{
+  "id": "night-light",
+  "title": "Choose the lighting",
+  "category": "evening",
+  "text": "Would you like this small light left on, or a different light?",
+  "caregiver_note": "Avoid leaving a person with unmet support needs.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
