@@ -1,0 +1,11 @@
+{
+  "id": "short-walk",
+  "title": "An optional walk",
+  "category": "activity",
+  "text": "If you feel like it, we can take a short walk together. Staying here is fine too.",
+  "caregiver_note": "Follow mobility guidance; never imply the person should walk alone.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
