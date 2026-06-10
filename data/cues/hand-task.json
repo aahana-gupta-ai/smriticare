@@ -1,0 +1,11 @@
+{
+  "id": "hand-task",
+  "title": "A small familiar task",
+  "category": "activity",
+  "text": "Would you like to help me fold this soft cloth? We can do it together.",
+  "caregiver_note": "Offer an optional activity that is safe and familiar.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
