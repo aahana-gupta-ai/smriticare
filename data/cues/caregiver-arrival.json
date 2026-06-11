@@ -1,0 +1,11 @@
+{
+  "id": "caregiver-arrival",
+  "title": "Introduce the caregiver",
+  "category": "reassurance",
+  "text": "Hello, I am here to spend time with you. We can take things one step at a time.",
+  "caregiver_note": "The real speaker should introduce themselves accurately.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
