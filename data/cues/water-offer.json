@@ -1,0 +1,11 @@
+{
+  "id": "water-offer",
+  "title": "Offer a drink",
+  "category": "meals",
+  "text": "Your drink is here if you would like it. We can take our time.",
+  "caregiver_note": "Do not prescribe fluid quantities or override restrictions.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
