@@ -1,0 +1,11 @@
+{
+  "id": "ask-for-help",
+  "title": "Invite support",
+  "category": "reassurance",
+  "text": "If something feels uncomfortable, you can tell me. I can help you reach your caregiver.",
+  "caregiver_note": "Do not promise emergency response through this offline demo.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
