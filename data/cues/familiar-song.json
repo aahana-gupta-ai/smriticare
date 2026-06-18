@@ -1,0 +1,11 @@
+{
+  "id": "familiar-song",
+  "title": "Enjoy a familiar song",
+  "category": "connection",
+  "text": "Would you like to hear a song you enjoy? We can stop whenever you want.",
+  "caregiver_note": "Ask permission before starting sound.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
