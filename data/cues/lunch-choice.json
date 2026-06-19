@@ -1,0 +1,11 @@
+{
+  "id": "lunch-choice",
+  "title": "A simple lunch choice",
+  "category": "meals",
+  "text": "Lunch is ready. Would you like to sit here or at the table?",
+  "caregiver_note": "Offer location choices without pressuring eating.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
