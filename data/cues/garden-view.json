@@ -1,0 +1,11 @@
+{
+  "id": "garden-view",
+  "title": "Look outside",
+  "category": "activity",
+  "text": "Would you like to look out at the garden with me for a little while?",
+  "caregiver_note": "Choose a comfortable, supervised location.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
