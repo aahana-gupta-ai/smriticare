@@ -1,0 +1,11 @@
+{
+  "id": "appointment-reminder",
+  "title": "A neutral appointment cue",
+  "category": "planning",
+  "text": "There is a planned appointment today. Your caregiver can explain the next step with you.",
+  "caregiver_note": "Use a confirmed appointment; this does not manage medical care.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
