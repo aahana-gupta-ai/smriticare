@@ -1,0 +1,11 @@
+{
+  "id": "quiet-rest",
+  "title": "Time for a pause",
+  "category": "rest",
+  "text": "We can have a quiet pause now. You do not need to do anything.",
+  "caregiver_note": "Allow declining or ending an activity.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
