@@ -1,0 +1,11 @@
+{
+  "id": "choose-breakfast",
+  "title": "Breakfast choice",
+  "category": "meals",
+  "text": "Would you prefer your usual breakfast, or shall we look at two options together?",
+  "caregiver_note": "Use the actual agreed diet and care plan.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
