@@ -1,0 +1,23 @@
+{
+  "id": "family-connection",
+  "title": "Family Connection",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "water-offer",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "garden-view",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "calm-room",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
