@@ -1,0 +1,23 @@
+{
+  "id": "flexible-day",
+  "title": "Flexible Day",
+  "is_synthetic": true,
+  "entries": [
+    {
+      "cue_id": "offer-choice",
+      "time": "09:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "personal-item",
+      "time": "14:00",
+      "day": "daily"
+    },
+    {
+      "cue_id": "morning-greeting",
+      "time": "18:00",
+      "day": "daily"
+    }
+  ],
+  "instructions": "Example only; adapt to the person's established preferences and support needs."
+}
