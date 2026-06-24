@@ -1,0 +1,3 @@
+import {requireVoiceConsent} from './consent.js';
+export function buildVoiceRequest(text,consent,voiceId,now=new Date()){requireVoiceConsent(consent,now);if(typeof text!=='string'||!text.trim()||text.length>1000)throw new Error('Cue text required');if(typeof voiceId!=='string'||!voiceId.trim())throw new Error('Voice id required');return {mode:'draft-only',voice_id:voiceId,text,send:false,requires_backend:true};}
+export function validAudioFile(file){return !!file&&['audio/mpeg','audio/wav','audio/x-wav','audio/ogg','audio/mp4','audio/webm'].includes(file.type)&&file.size>0&&file.size<=10*1024*1024;}
