@@ -1,0 +1,2 @@
+import {validTime,timeMinutes} from '../common/time.js';
+export function normalizeRoutine(routine,cueIds){if(!routine||!Array.isArray(routine.entries))throw new Error('Routine entries required');const entries=routine.entries.map(entry=>{if(!cueIds.includes(entry.cue_id))throw new Error('Unknown cue');if(!validTime(entry.time))throw new Error('Invalid reminder time');return {...entry};}).sort((a,b)=>timeMinutes(a.time)-timeMinutes(b.time));return {...routine,entries};}
