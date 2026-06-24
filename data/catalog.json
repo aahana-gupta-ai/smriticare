@@ -1,0 +1,287 @@
+{
+  "project": "smriticare",
+  "items": [
+    {
+      "id": "morning-greeting",
+      "title": "A gentle morning greeting",
+      "path": "data/cues/morning-greeting.json",
+      "kind": "cue",
+      "category": "morning"
+    },
+    {
+      "id": "open-curtains",
+      "title": "Welcome daylight",
+      "path": "data/cues/open-curtains.json",
+      "kind": "cue",
+      "category": "morning"
+    },
+    {
+      "id": "choose-breakfast",
+      "title": "Breakfast choice",
+      "path": "data/cues/choose-breakfast.json",
+      "kind": "cue",
+      "category": "meals"
+    },
+    {
+      "id": "tea-time",
+      "title": "A familiar tea break",
+      "path": "data/cues/tea-time.json",
+      "kind": "cue",
+      "category": "meals"
+    },
+    {
+      "id": "water-offer",
+      "title": "Offer a drink",
+      "path": "data/cues/water-offer.json",
+      "kind": "cue",
+      "category": "meals"
+    },
+    {
+      "id": "lunch-choice",
+      "title": "A simple lunch choice",
+      "path": "data/cues/lunch-choice.json",
+      "kind": "cue",
+      "category": "meals"
+    },
+    {
+      "id": "dinner-table",
+      "title": "Prepare for dinner",
+      "path": "data/cues/dinner-table.json",
+      "kind": "cue",
+      "category": "meals"
+    },
+    {
+      "id": "familiar-song",
+      "title": "Enjoy a familiar song",
+      "path": "data/cues/familiar-song.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "family-photo",
+      "title": "Look at a familiar photo",
+      "path": "data/cues/family-photo.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "garden-view",
+      "title": "Look outside",
+      "path": "data/cues/garden-view.json",
+      "kind": "cue",
+      "category": "activity"
+    },
+    {
+      "id": "short-walk",
+      "title": "An optional walk",
+      "path": "data/cues/short-walk.json",
+      "kind": "cue",
+      "category": "activity"
+    },
+    {
+      "id": "hand-task",
+      "title": "A small familiar task",
+      "path": "data/cues/hand-task.json",
+      "kind": "cue",
+      "category": "activity"
+    },
+    {
+      "id": "quiet-rest",
+      "title": "Time for a pause",
+      "path": "data/cues/quiet-rest.json",
+      "kind": "cue",
+      "category": "rest"
+    },
+    {
+      "id": "comfortable-seat",
+      "title": "Find a comfortable place",
+      "path": "data/cues/comfortable-seat.json",
+      "kind": "cue",
+      "category": "rest"
+    },
+    {
+      "id": "calm-room",
+      "title": "Reduce distractions",
+      "path": "data/cues/calm-room.json",
+      "kind": "cue",
+      "category": "rest"
+    },
+    {
+      "id": "evening-greeting",
+      "title": "A gentle evening cue",
+      "path": "data/cues/evening-greeting.json",
+      "kind": "cue",
+      "category": "evening"
+    },
+    {
+      "id": "bedtime-choice",
+      "title": "Prepare for bedtime",
+      "path": "data/cues/bedtime-choice.json",
+      "kind": "cue",
+      "category": "evening"
+    },
+    {
+      "id": "night-light",
+      "title": "Choose the lighting",
+      "path": "data/cues/night-light.json",
+      "kind": "cue",
+      "category": "evening"
+    },
+    {
+      "id": "caregiver-arrival",
+      "title": "Introduce the caregiver",
+      "path": "data/cues/caregiver-arrival.json",
+      "kind": "cue",
+      "category": "reassurance"
+    },
+    {
+      "id": "ask-for-help",
+      "title": "Invite support",
+      "path": "data/cues/ask-for-help.json",
+      "kind": "cue",
+      "category": "reassurance"
+    },
+    {
+      "id": "offer-choice",
+      "title": "Offer one simple choice",
+      "path": "data/cues/offer-choice.json",
+      "kind": "cue",
+      "category": "reassurance"
+    },
+    {
+      "id": "repeat-gently",
+      "title": "Repeat an instruction gently",
+      "path": "data/cues/repeat-gently.json",
+      "kind": "cue",
+      "category": "reassurance"
+    },
+    {
+      "id": "visit-preparation",
+      "title": "Prepare for a familiar visit",
+      "path": "data/cues/visit-preparation.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "phone-call",
+      "title": "Offer a family call",
+      "path": "data/cues/phone-call.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "story-time",
+      "title": "Listen to a story",
+      "path": "data/cues/story-time.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "personal-item",
+      "title": "Offer a familiar object",
+      "path": "data/cues/personal-item.json",
+      "kind": "cue",
+      "category": "activity"
+    },
+    {
+      "id": "appointment-reminder",
+      "title": "A neutral appointment cue",
+      "path": "data/cues/appointment-reminder.json",
+      "kind": "cue",
+      "category": "planning"
+    },
+    {
+      "id": "care-plan-check",
+      "title": "Ask the caregiver about the plan",
+      "path": "data/cues/care-plan-check.json",
+      "kind": "cue",
+      "category": "planning"
+    },
+    {
+      "id": "end-activity",
+      "title": "Finish an activity gently",
+      "path": "data/cues/end-activity.json",
+      "kind": "cue",
+      "category": "planning"
+    },
+    {
+      "id": "thank-you",
+      "title": "Close with appreciation",
+      "path": "data/cues/thank-you.json",
+      "kind": "cue",
+      "category": "connection"
+    },
+    {
+      "id": "gentle-morning",
+      "title": "Gentle Morning",
+      "path": "data/routines/gentle-morning.json",
+      "kind": "routine"
+    },
+    {
+      "id": "quiet-afternoon",
+      "title": "Quiet Afternoon",
+      "path": "data/routines/quiet-afternoon.json",
+      "kind": "routine"
+    },
+    {
+      "id": "family-connection",
+      "title": "Family Connection",
+      "path": "data/routines/family-connection.json",
+      "kind": "routine"
+    },
+    {
+      "id": "familiar-music",
+      "title": "Familiar Music",
+      "path": "data/routines/familiar-music.json",
+      "kind": "routine"
+    },
+    {
+      "id": "mealtime-support",
+      "title": "Mealtime Support",
+      "path": "data/routines/mealtime-support.json",
+      "kind": "routine"
+    },
+    {
+      "id": "evening-comfort",
+      "title": "Evening Comfort",
+      "path": "data/routines/evening-comfort.json",
+      "kind": "routine"
+    },
+    {
+      "id": "low-stimulation",
+      "title": "Low Stimulation",
+      "path": "data/routines/low-stimulation.json",
+      "kind": "routine"
+    },
+    {
+      "id": "weekend-visit",
+      "title": "Weekend Visit",
+      "path": "data/routines/weekend-visit.json",
+      "kind": "routine"
+    },
+    {
+      "id": "garden-moments",
+      "title": "Garden Moments",
+      "path": "data/routines/garden-moments.json",
+      "kind": "routine"
+    },
+    {
+      "id": "small-activities",
+      "title": "Small Activities",
+      "path": "data/routines/small-activities.json",
+      "kind": "routine"
+    },
+    {
+      "id": "flexible-day",
+      "title": "Flexible Day",
+      "path": "data/routines/flexible-day.json",
+      "kind": "routine"
+    },
+    {
+      "id": "caregiver-check-in",
+      "title": "Caregiver Check In",
+      "path": "data/routines/caregiver-check-in.json",
+      "kind": "routine"
+    }
+  ]
+}
