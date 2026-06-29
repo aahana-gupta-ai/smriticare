@@ -1,0 +1,11 @@
+{
+  "id": "dinner-table",
+  "title": "Prepare for dinner",
+  "category": "meals",
+  "text": "We are getting ready for dinner. I can sit with you while we get comfortable.",
+  "caregiver_note": "Keep instructions short and describe the current activity.",
+  "language": "en",
+  "source": "New demonstration template; not original production content",
+  "review_status": "unreviewed",
+  "requires_consent_for_voice": true
+}
