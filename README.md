@@ -6,6 +6,13 @@ Smriti began with a simple question: when memory becomes unreliable, can the voi
 
 The project explores personalised voice, family context, and low-friction messaging as ingredients for everyday dementia support.
 
+## Project chronology
+
+- **2026:** Smriti developed from dementia-care research into a voice-and-context support concept.
+- **September 2026:** the project moved into public-facing testing and launch work around World Alzheimer's Month.
+- **October 2026:** this GitHub repository was consolidated as a public demonstration and documentation layer.
+- The repository creation date is **newer than the project itself**.
+
 ## What this repository demonstrates
 
 - Care-cue and routine design
@@ -44,5 +51,7 @@ This repository is a local demonstration environment; it does not itself send me
 ## Provenance
 
 The Smriti concept, research framing, product direction, and project work are mine. The current public demonstration scaffolding was created later with AI-assisted development tools and is not presented as the original production system. See `docs/PROVENANCE.md` and `NOTICE.md`.
+
+[See the broader project timeline →](https://github.com/aahana-gupta-ai/aahana-gupta-ai/blob/main/PROJECT_TIMELINE.md)
 
 **Themes:** dementia care · human-centred AI · voice technology · family connection · accessible design
