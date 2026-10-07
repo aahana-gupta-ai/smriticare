@@ -1,46 +1,48 @@
 # SmritiCare
 
-Familiar cues and thoughtful care routines.
+**Exploring whether familiar voices can make dementia-support technology feel more human.**
 
-**Package status:** runnable portfolio starter. Only the ADAS-Cog repository also contains supplied original web source in `legacy/`. Other project production code was not supplied. Newly generated code must not be represented as the original implementation.
+Smriti began with a simple question: when memory becomes unreliable, can the voice of someone you love still provide orientation, comfort, or continuity?
 
-## What works in this starter
+The project explores personalised voice, family context, and low-friction messaging as ingredients for everyday dementia support.
 
-- Thirty reviewable care-cue examples and twelve synthetic routines.
-- Time-sorted routine builder, local audio preview, and permission gating.
-- Local JSON plans and WhatsApp text drafts; no service delivery is configured.
+## What this repository demonstrates
 
-## Run
+- Care-cue and routine design
+- Time-sorted daily plans
+- Local audio preview
+- Consent and permission gating
+- JSON plan export
+- WhatsApp-ready message drafts
+
+## Design principles
+
+**Familiar before futuristic.** The technology should disappear behind a voice or routine the person already knows.
+
+**Low friction.** Families should not need to learn a complicated new system.
+
+**Human-controlled.** Context, consent, and review matter more than automation.
+
+## Run the demonstration
 
 ```bash
 python3 scripts/serve.py
 ```
 
-Open http://127.0.0.1:8000. Use the bundled example content. No dependency install or account is required.
+Then open `http://127.0.0.1:8000`.
 
-## Verify
+This repository is a local demonstration environment; it does not itself send messages or provide a clinical service.
 
-```bash
-node --test
-node scripts/verify.mjs
-```
+## Repository structure
 
-## Contents
+- `src/` — demonstration interface
+- `data/` — synthetic routines and care-cue examples
+- `tests/` — behaviour and data-integrity tests
+- `docs/` — architecture, safeguards, provenance, and workflow notes
+- `schemas/`, `examples/` — plan and export formats
 
-- `src/`: functioning browser application and reusable helpers.
-- `data/`: indexed demonstration resources.
-- `tests/`: behavior and data-integrity tests.
-- `docs/`: architecture, provenance, integration limits, and workflow guides.
-- `schemas/` and `examples/`: documented export formats.
+## Provenance
 
-Every project is packaged with exactly **160 files**, including code, resources, tests, and documentation; file count is not a measure of research quality.
+The Smriti concept, research framing, product direction, and project work are mine. The current public demonstration scaffolding was created later with AI-assisted development tools and is not presented as the original production system. See `docs/PROVENANCE.md` and `NOTICE.md`.
 
-## Topics
-
-`artificial-intelligence` `voice-cloning` `healthcare` `dementia` `whatsapp`
-
-Set these through GitHub's About settings.
-
-## Attribution and rights
-
-Project identity and background come from the uploaded Aahana Gupta descriptions. Starter code and new example content were generated for this bundle. No new open-source license is assigned. Review `NOTICE.md` and `docs/PROVENANCE.md` before public distribution.
+**Themes:** dementia care · human-centred AI · voice technology · family connection · accessible design
