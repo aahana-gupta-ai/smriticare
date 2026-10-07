@@ -1,3 +1,7 @@
-# Rights and source notice
+# Repository notice
 
-No new open-source license has been assigned. Uploaded files may contain existing rights notices, which remain intact. New starter code is provided for the requested project bundle; obtain the owner's approval before claiming authorship or applying a redistribution license. No affiliations, patents, endorsements, deployments, or impact figures are established by this generated package.
+This repository is a public demonstration and documentation record for SmritiCare.
+
+It does not itself provide a clinical service, send live messages, or establish the effectiveness of any intervention. Synthetic examples are used where appropriate for public demonstration.
+
+No open-source licence has been assigned unless a file states otherwise. Existing third-party rights and notices remain in force.
