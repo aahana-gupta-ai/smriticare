@@ -1,3 +1,7 @@
 # Security
 
-This package has no configured network service. Report vulnerabilities privately to the project owner through a verified contact; no contact address was supplied. Do not publish private data in issues. Browser inputs are rendered with textContent; generated exports still need review before sharing. Legacy ADAS-Cog source retains its documented limitations.
+This repository is a local demonstration and does not configure live messaging, voice-cloning, or clinical services.
+
+Report security issues privately through the project owner's verified contact channels. Do not publish personal, health, family, credential, or other sensitive information in issues.
+
+Synthetic demonstration data should be used for public testing.
